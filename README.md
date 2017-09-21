@@ -8,6 +8,9 @@ The purpose of this project was to use TDD principles to create a list of the to
 
 Program Notes:
 Below are the steps to successfully run the TopOneHundredWords class:
-1. copy "stop-words.txt to the src directory.
-2. copy "mobydick.txt to the src directory. 
-3. run TopOneHundredWords.java file.
+1. download "MobyDickTxt.java", "StopWords.java", "TopOneHundredWords.java", "WordCount.java" to org.wordcount package in src directory.
+2. download "MobyDickTxtTests.java", "StopWordsTests.java", and "WordCountTest.java" to org.wordcount package in a test directory.
+3. copy "stop-words.txt" and "mobydick.txt" to the src directory.
+4. run TopOneHundredWords.java file.
+
+*DISCLAIMER - this is my first attempt at uploading a project to GitHub using Intellij's standard .gitignore file.  If any files are needed, please send me a message.
